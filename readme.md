@@ -1,3 +1,3 @@
 ## Información importante.
-- subiendo repositorio a hithub
-- proyecto final
+-  se elimanaron imagenes de  sobra
+-  se creo este readme
